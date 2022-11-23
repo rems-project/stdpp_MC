@@ -1,3 +1,5 @@
+This is variation on https://gitlab.mpi-sws.org/iris/stdpp to work embedded in a project that contains some files with the same names.
+
 # Coq-std++ [[coqdoc]](https://plv.mpi-sws.org/coqdoc/stdpp/)
 
 This project contains an extended "Standard Library" for Coq called coq-std++.
