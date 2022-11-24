@@ -1,0 +1,7 @@
+(coq.theory
+ (name stdpp.unstable)
+ ;(name Cerberus.stdpp_MC.stdpp_unstable)
+ (theories stdpp)
+; (theories Cerberus.stdpp_MC.stdpp)
+)
+

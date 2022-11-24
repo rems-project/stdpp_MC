@@ -1,0 +1,6 @@
+(coq.theory
+ (name stdpp)
+ ;(name Cerberus.stdpp_MC.stdpp)
+
+)
+
